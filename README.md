@@ -4,7 +4,7 @@ Imagine that you are writing an opinion piece for The Retriever on the topic and
 
 Place a pdf file with your piece in your local repository named xxxxx_hw1.pdf where xxxxx is your umbc username (e.g., finin_hw1.pdf), use git to add and commit the file and push the changes back to the github repository.
 
-Finally, Summarize your op-ed piece in  a traditional tweet-length (i.e., at most 140 characters) comment to the Piazza thread HW1tweets.
+Finally, summarize your op-ed piece in  a traditional tweet-length (i.e., at most 140 characters) comment to the Piazza thread HW1tweets.
 
 # For more information
 * See the [471 hw1 page](https://www.csee.umbc.edu/courses/undergraduate/471/spring19/01/hw/HW1/) for details on the homework
